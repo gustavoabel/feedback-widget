@@ -1,8 +1,8 @@
 <h1 align="center">
-    🚀 NLW Return
+    🚀 NLW Return Feedback Widget
 </h1>
 
-<p align="center">Aplicação Next Level Week Return</p>
+<p align="center">Aplicação Feedback Widget - Next Level Week Return - Trilha Impulse</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
