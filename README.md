@@ -22,7 +22,7 @@
 🚧  Em Andamento 
 </h3>
 <p align="center">
-<img src="/home/gustavoabell/Projetos/nlw-return/web/src/assets/feedback.png">
+![App Screenshot](.github/feedback.png)
 
 <h4>Widget Web, Mobile and Back-end to send Feedback e-mail with screenshot. This application was created for the purpose of studies. </h4>
 </br>
