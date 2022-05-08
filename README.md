@@ -4,12 +4,7 @@
 
 <p align="center">Aplicação Feedback Widget - Next Level Week Return - Trilha Impulse</p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
-  <img src="https://img.shields.io/static/v1?label=react&message=16.13.1&color=61DAFB&logo=react" />
-  <img src="https://img.shields.io/static/v1?label=react%20native&message=39.0.1&color=0088CC&logo=reactos" />
-  <img src="https://img.shields.io/badge/license-MIT-success"/>
-</p>
+
 
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
