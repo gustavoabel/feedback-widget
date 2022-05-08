@@ -5,14 +5,6 @@
 <p align="center">Aplicação Feedback Widget - Next Level Week Return - Trilha Impulse</p>
 
 
-
-<p align="center">
-  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
 <h3 align="center"> 
 🚧  Em Andamento 
 </h3>
