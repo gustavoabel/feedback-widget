@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { FeedbackContentStep } from './Steps/FeedbackContentStep';
-import { FeedbackSuccessStep } from './Steps/FeedbackSuccessStep';
+import { FeedbackSuccessStep } from './Steps/FeedbackSucessStep';
 import { FeedbackTypeStep } from './Steps/FeedbackTypeStep';
 
 import bugImageUrl from '../../../assets/bug.svg';
