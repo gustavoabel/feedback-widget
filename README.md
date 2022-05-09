@@ -6,7 +6,7 @@
 
 
 <h3 align="center"> 
-🚧  Em Andamento 
+🚧  Finalizado 
 </h3>
 
 ![App Screenshot](.github/feedback.png)
